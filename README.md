@@ -41,7 +41,7 @@ It comes with **Clerk-based authentication** and **subscription plans** (Free & 
 | **Frontend** | React.js, TailwindCSS, PrebuiltUI |
 | **Backend** | Node.js, Express.js |
 | **Authentication & Payments** | Clerk |
-| **Database** | PostgreSQL |
+| **Database** | NeonDB |
 | **Deployment** | Vercel |
 
 ---
